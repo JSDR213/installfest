@@ -173,7 +173,7 @@ Hi <you>! You've successfully authenticated, but GitHub does not provide shell a
 Connection to github.com closed.
 ```
 
-If you are seeing an error that looks something like "Github has changed its security features... please enter a Personal Access Token..." please let your instructional team know, we will be following this resource https://github.com/seir-123/Github-PAT-setup to set that up if needed
+If you are seeing an error that looks something like "Github has changed its security features... please enter a Personal Access Token..." please let your instructional team know, we will be following this resource https://github.com/taubman33/Github-PAT-setup to set that up if needed
 
 
 
